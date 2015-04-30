@@ -19,9 +19,7 @@ I specialize in technology in journalism:
 - I reported on content management systems, web documentaries, news apps and technology in journalism in general. I also explained new tools to other journalists in a monthly column.
 - I recently wrote a [special about the New York Times Innovation Report](http://cf.newsroom.de/shop/index.cfm?step=1&kategorie=wkst).
 
-## Education
-
-### Makers Academy (February 2015 - May 2015)
+### Coding
 
 I've quit my job as an editor in February 2015 to explore where digital journalism and online storytelling are heading. My first step in doing so was learning how to code at Makers Academy in London.
 
@@ -34,16 +32,19 @@ During my time at Makers I haven't done anything but to code. We started with **
 - TDD has guided me through this process of learning: **RSpec**, **Capybara** and **Cucumber** in Ruby projects, **Jasmine** and **Protractor** for testing JS and Angular and **Travis** with Code Climate for Continuous Integration. 
 
 - I've been [blogging about my dive into code](http://www.codereporter.de).
+ 
+### Working in multilingual teams
+I have worked in a variety of different teams: in **agile** environments and traditionally managed teams, in German, English and Spanish. I am a fan of **pair programming** and agile project management.
+ 
+## Education
+
+### Makers Academy (February 2015 - May 2015)
 
 ### University of Applied Sciences Darmstadt (2008/10 - 2012/03)
 
 - Online Journalism, Diplom
 - Grade: 1,2
 - Thesis: A [web documentary](http://www.bergdreh.de) about a film team that tried to climb the Mont Blanc
-
-### Working in multilingual teams
-
-- I have worked in a variety of different teams: in **agile** environments and traditionally managed teams, in German, English and Spanish. I am a fan of **pair programming** and agile project management.
 
 ## Experience
 
