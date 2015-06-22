@@ -1,6 +1,6 @@
 # Thomas Strothjohann
 
-I am a digital journalist and a web developer. I have reported on serious topics like a [transport of relief goods to the Syrian border](http://williwillhelfen.de). But I also told stories about people brewing beer, finding dogs or riding bikes. With my new web development skills I would like to contribute to innovative journalistic projects.
+I am a digital journalist and a web developer. I have reported on serious topics like a [transport of relief goods to the Syrian border](http://williwillhelfen.de). But I also told stories about people brewing beer, finding dogs or riding bikes. In May 2015 I have graduated from "Makers Academy" a twelve week immersive coding bootcamp. Now I want to cementize my coding skills in a media related tech company.
 
 ## Skills
 
