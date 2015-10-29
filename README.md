@@ -47,7 +47,7 @@ I have worked in a variety of different teams: in **agile** environments and tra
 - Thesis: A [web documentary](http://www.bergdreh.de) about a film team that tried to climb the Mont Blanc
 
 ## Experience
-- [Zeit Online](http://www.zeit.de) Research & Development, Berlin (2015/06 - 08), *Intern* 
+- [Zeit Online](http://www.zeit.de) Research & Development, Berlin (2015/06 - 10), *Intern* 
 - Oberhessische Presse, Marburg (2012/05 - 2015/02), *Editor*
 - medium magazin, Frankfurt (2008/11 - today), *Member of the editorial team*
 - Social service at a German library in Managua, Nicaragua (2007-2008)
